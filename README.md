@@ -17,7 +17,8 @@ The purpose of the project is to refactor VBA code of Stock Analysis workbook to
  - My reccomendation would be to invest on RUN as it shows positive return both years and had growth.
 
  ### The Old code execution time 
-![StockAnalysis_2017_OldCode](https://user-images.githubusercontent.com/76926148/185770255-86236ea9-e809-4c3d-9306-68d414a8ab2e.PNG)
+
+![StockAnalysis_2017_OldCode](https://user-images.githubusercontent.com/76926148/185770548-f156a7a4-1d9f-4014-9bcc-629386c2ca1f.PNG)
 
 ![StockAnalysis_2018_OldCode](https://user-images.githubusercontent.com/76926148/185770258-de0bdaf5-174d-4920-a3a0-f60891dce41e.PNG)
 
